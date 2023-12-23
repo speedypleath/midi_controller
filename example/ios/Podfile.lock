@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - midi_controller (0.4.2):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - midi_controller (from `.symlinks/plugins/midi_controller/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  midi_controller:
+    :path: ".symlinks/plugins/midi_controller/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  midi_controller: fbc495b64c272fd186c05d8579f15db66a23ca3e
+
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
+
+COCOAPODS: 1.14.3
